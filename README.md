@@ -1,4 +1,4 @@
-<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/HarryPotterWordCounter/Top.gif" width="15%"/><br>
+<img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/HarryPotterWordCounter/Top.gif" width="40%"/><br>
 
 ## Project Description
 Sometimes I get questions on my mind that I cannot seem to get rid of. 

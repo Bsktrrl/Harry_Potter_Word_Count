@@ -3,8 +3,10 @@
 ## Project Description
 Sometimes I get questions on my mind that I cannot seem to get rid of. 
 When driving home from class one day, I got the urge to find out how many times "Harry" was mentioned throughout the seven Harry Potter Books. 
-So of course did I make a program to resolve this question. 
-I made it so that any word can be searched and resolved.
+So of course did I make a program to resolve this question.
+<br>
+<br>
+I made it so that any word can be searched and resolved. You can choose only one book, or see the mentions from all books.
 
 ##
 Voldemort<br>
